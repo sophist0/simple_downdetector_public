@@ -3,7 +3,7 @@
 
 The following assumes a Linux development environment:
 
-In replace the contents of `root_dir/downdetector_app/lambda_code/config.json` with the
+Replace the contents of `root_dir/downdetector_app/lambda_code/config.json` with the
 endpoints you want to check.
 
 In `root_dir/downdetector_app/detector_stack.py` replace AWS_ACCOUNT_EMAIL with the
@@ -23,7 +23,7 @@ Install the required dependencies.
 $ pip install -r requirements.txt
 ```
 
-At this point you can deploy the cdk.
+At this point you should be able to deploy the cdk.
 ```
 $ cdk deploy
 ```

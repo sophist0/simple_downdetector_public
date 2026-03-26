@@ -1,6 +1,6 @@
 
 # Simple Downdetector
 
-Design documentation is in `docs/`.
+Design documentation are in `docs/`.
 
-The code and instructions to setup the project are in `downdetector_app`.
+The code and instructions to setup the project are in `downdetector_app/`.
